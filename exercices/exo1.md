@@ -1,4 +1,4 @@
-# Version B
+# Version finale
 
 premier exercice
 
