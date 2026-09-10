@@ -1,4 +1,4 @@
-# Titre écrit sur la branche titre
+# Version B
 
 premier exercice
 
